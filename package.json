@@ -1,5 +1,5 @@
 {
-  "name": "srcdoc-polyfill",
+  "name": "medallia-srcdoc-polyfill",
   "version": "0.1.1",
   "description": "A shim for the iFrame \"srcdoc\" attribute",
   "main": "srcdoc-polyfill.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jugglinmike/srcdoc-polyfill.git"
+    "url": "https://github.com/medallia/srcdoc-polyfill.git"
   },
   "keywords": [
     "html5",
